@@ -8,3 +8,22 @@ git checkout 버전번호
 git log --all 하면 
 master(초기)가 있는 곳이 나오는데
 그걸로 다시 checkout 하면 돌아갈 수 있다. 
+
+
+ctrl + `
+백 쿼트 back quote
+terminal(shell)을 열 수 있다. 
+
+git bash 설치되어서 윈도우 
+우분투 환경에서 하는게 더 좋음
+WSL(Ubuntu)
+왜냐하면 윈도우에서는 제한적일 수도 있다. 
+
+><라고 있는 초록색을 누르면 다른 데로 갈수 있다. 
+
+terminal이 powershell이면 윈도우 환경
+우분투이면 리눅스 환경. 
+
+
+그런데 리눅스 폴더 안에서만 우리가 관리 가능하므로
+리눅스 폴더랑 윈도우 폴더랑 따로 관리하기
